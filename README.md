@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">IT Professional</a>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>IT Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
 
@@ -11,7 +11,7 @@
 - [CompTIA A+ ce Certification](https://www.credly.com/badges/00a0fbd6-19e8-47db-8185-8c6af4d7881e/linked_in_profile)
 - [CompTIA IT Fundamentals (ITF+) Certification](https://www.credly.com/badges/e5db48d5-d6e7-4ff9-81d2-0e5217b83449/linked_in_profile)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="JonCzerwinski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
