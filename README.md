@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">IT Professional</a>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Certifications</h2>
+
+- [CompTIA IT Operations Specialist – CIOS Stackable Certification](https://www.credly.com/badges/e8e4cce0-e2eb-4b02-97e3-97139e00ea7e/linked_in_profile)
+- [CompTIA Network+ ce Certification](https://www.credly.com/badges/f8e57115-9f22-41eb-9346-71ca009bd2ca/linked_in_profile)
+- [CompTIA A+ ce Certification](https://www.credly.com/badges/00a0fbd6-19e8-47db-8185-8c6af4d7881e/linked_in_profile)
+- [CompTIA IT Fundamentals (ITF+) Certification](https://www.credly.com/badges/e5db48d5-d6e7-4ff9-81d2-0e5217b83449/linked_in_profile)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JonCzerwinski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jon-czerwinski/
 
 <!--
-**jwczerwinski/jwczerwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jwczerwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +29,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
