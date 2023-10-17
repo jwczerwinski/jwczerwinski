@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">IT Professional</a>
+<h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">System Administrator</a>
 
 <h2>IT Projects:</h2>
 
