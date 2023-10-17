@@ -13,7 +13,8 @@
 
 <h2>Connect</h2>
 
-- [Linkedin](https://www.linkedin.com/in/jon-czerwinski/)
+- [Linkedin](https://www.linkedin.com/in/jon-czerwinski/) <br>
+- [Gmail](jon.czerwinski63@gmail.com/)
 
 <!--
 **jwczerwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
