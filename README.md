@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">Systems/Network Administrator</a>
 
-<h2>IT Projects:</h2>
+<h2>Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
 
