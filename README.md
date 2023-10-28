@@ -3,6 +3,7 @@
 <h2>Projects</h2>
 
 - [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
+- [Network Home Lab](https://github.com/jwczerwinski/Network-Home-Lab)
 
 <h2>Certifications</h2>
 
