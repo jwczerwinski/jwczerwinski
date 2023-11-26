@@ -7,8 +7,6 @@
 - [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs/blob/main/README.md)
 - [HSRP & STP Synchronization](https://github.com/jwczerwinski/HSRP-STP-Synchronization/blob/main/README.md)
 
-- 
-
 <h2>Certifications</h2>
 
 - [CompTIA IT Operations Specialist – CIOS Stackable Certification](https://www.credly.com/badges/e8e4cce0-e2eb-4b02-97e3-97139e00ea7e/linked_in_profile)
