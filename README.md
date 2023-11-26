@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
 - [Network Home Lab](https://github.com/jwczerwinski/Network-Home-Lab)
+- [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs/blob/main/README.md)
 
 <h2>Certifications</h2>
 
