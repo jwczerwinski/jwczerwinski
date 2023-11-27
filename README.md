@@ -6,6 +6,7 @@
 - [Network Home Lab](https://github.com/jwczerwinski/Network-Home-Lab)
 - [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs/blob/main/README.md)
 - [HSRP & STP Synchronization](https://github.com/jwczerwinski/HSRP-STP-Synchronization/blob/main/README.md)
+- [OSPF Configurations](https://github.com/jwczerwinski/OSPF/blob/main/README.md)
 
 <h2>Certifications</h2>
 
