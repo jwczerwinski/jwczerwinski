@@ -5,6 +5,7 @@
 - [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
 - [Network Home Lab](https://github.com/jwczerwinski/Network-Home-Lab)
 - [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs/blob/main/README.md)
+- [VLAN Configurations](https://github.com/jwczerwinski/VLANs)
 - [HSRP & STP Synchronization](https://github.com/jwczerwinski/HSRP-STP-Synchronization/blob/main/README.md)
 - [OSPF Configurations](https://github.com/jwczerwinski/OSPF/blob/main/README.md)
 - [OSPF Troubleshooting](https://github.com/jwczerwinski/OSPF-Troubleshooting/blob/main/README.md)
