@@ -9,6 +9,7 @@
 - [SSH](https://github.com/jwczerwinski/SSH)
 - [OSPF Configurations](https://github.com/jwczerwinski/OSPF)
 - [OSPF Troubleshooting](https://github.com/jwczerwinski/OSPF-Troubleshooting)
+- [NTP](https://github.com/jwczerwinski/NTP/tree/main)
 - [HSRP & STP Synchronization](https://github.com/jwczerwinski/HSRP-STP-Synchronization)
 
 
