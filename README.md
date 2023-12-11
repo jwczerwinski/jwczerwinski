@@ -4,9 +4,10 @@
 
 - [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
 - [Network Home Lab](https://github.com/jwczerwinski/Network-Home-Lab)
+- [SSH](https://github.com/jwczerwinski/SSH)
 - [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs)
 - [VLANs](https://github.com/jwczerwinski/VLANs)
-- [SSH](https://github.com/jwczerwinski/SSH)
+- [DHCP](https://github.com/jwczerwinski/DHCP/tree/main)
 - [OSPF Configurations](https://github.com/jwczerwinski/OSPF)
 - [OSPF Troubleshooting](https://github.com/jwczerwinski/OSPF-Troubleshooting)
 - [NTP](https://github.com/jwczerwinski/NTP/tree/main)
