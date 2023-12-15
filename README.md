@@ -11,6 +11,7 @@
 - [DHCP Snooping](https://github.com/jwczerwinski/DHCP-Snooping)
 - [OSPF Configurations](https://github.com/jwczerwinski/OSPF)
 - [OSPF Troubleshooting](https://github.com/jwczerwinski/OSPF-Troubleshooting)
+- [ACLs Standard and Extended](https://github.com/jwczerwinski/ACLs-Standard-and-Extended)
 - [NTP](https://github.com/jwczerwinski/NTP/tree/main)
 - [HSRP & STP Synchronization](https://github.com/jwczerwinski/HSRP-STP-Synchronization)
 
