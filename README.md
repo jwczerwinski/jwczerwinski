@@ -8,6 +8,7 @@
 - [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs)
 - [VLANs](https://github.com/jwczerwinski/VLANs)
 - [DHCP](https://github.com/jwczerwinski/DHCP/tree/main)
+- [DHCP Snooping](https://github.com/jwczerwinski/DHCP-Snooping)
 - [OSPF Configurations](https://github.com/jwczerwinski/OSPF)
 - [OSPF Troubleshooting](https://github.com/jwczerwinski/OSPF-Troubleshooting)
 - [NTP](https://github.com/jwczerwinski/NTP/tree/main)
