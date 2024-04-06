@@ -18,8 +18,10 @@
 
 <h2>Certifications</h2>
 
-- [CompTIA IT Operations Specialist – CIOS Stackable Certification](https://www.credly.com/badges/e8e4cce0-e2eb-4b02-97e3-97139e00ea7e/linked_in_profile)
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/48d3e286-7b74-448d-8059-7e82f9b10c2a)
+- [CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification](https://www.credly.com/badges/7a9456b6-d0b7-4de2-97ee-8805d418d70c/public_url)
 - [CompTIA Network+ ce Certification](https://www.credly.com/badges/f8e57115-9f22-41eb-9346-71ca009bd2ca/linked_in_profile)
+- [CompTIA IT Operations Specialist – CIOS Stackable Certification](https://www.credly.com/badges/e8e4cce0-e2eb-4b02-97e3-97139e00ea7e/linked_in_profile)
 - [CompTIA A+ ce Certification](https://www.credly.com/badges/00a0fbd6-19e8-47db-8185-8c6af4d7881e/linked_in_profile)
 - [CompTIA IT Fundamentals (ITF+) Certification](https://www.credly.com/badges/e5db48d5-d6e7-4ff9-81d2-0e5217b83449/linked_in_profile)
 
