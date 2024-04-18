@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">IT Home Lab Administrator</a>
+<h1>Jon Czerwinski <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">IT Home Lab Administrator</a>
 
 <h1>Projects</h1>
 <h3>System</h3>
