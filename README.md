@@ -1,10 +1,13 @@
 <h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-czerwinski/">IT Home Lab Administrator</a>
 
-<h2>Projects</h2>
+<h1>Projects</h1>
+<h3>System</h3>
 
 - [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
+
+<h3>Network</h3>
+
 - [Network Home Lab](https://github.com/jwczerwinski/Network-Home-Lab)
-- [SIEM Home Lab](https://github.com/jwczerwinski/SIEM-Home-Lab)
 - [SSH](https://github.com/jwczerwinski/SSH)
 - [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs)
 - [VLANs](https://github.com/jwczerwinski/VLANs)
@@ -15,10 +18,16 @@
 - [ACLs Standard and Extended](https://github.com/jwczerwinski/ACLs-Standard-and-Extended)
 - [NTP](https://github.com/jwczerwinski/NTP/tree/main)
 - [HSRP & STP Synchronization](https://github.com/jwczerwinski/HSRP-STP-Synchronization)
+
+<h3>Security</h3>
+
+- [SIEM Home Lab](https://github.com/jwczerwinski/SIEM-Home-Lab)
+<h3>Program</h3>
+
 - [Hello World](https://github.com/jwczerwinski/Hello-World)
 
 
-<h2>Certifications</h2>
+<h1>Certifications</h1>
 
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/48d3e286-7b74-448d-8059-7e82f9b10c2a)
 - [CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification](https://www.credly.com/badges/7a9456b6-d0b7-4de2-97ee-8805d418d70c/public_url)
