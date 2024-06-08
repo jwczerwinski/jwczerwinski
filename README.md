@@ -7,6 +7,7 @@
 
 <h3>Network</h3>
 
+- [CCNA Mega Lab](https://github.com/jwczerwinski/CCNA-Mega-Lab)
 - [Network Home Lab](https://github.com/jwczerwinski/Network-Home-Lab)
 - [SSH](https://github.com/jwczerwinski/SSH)
 - [Voice VLANs](https://github.com/jwczerwinski/Voice-VLANs)
